@@ -1,0 +1,25 @@
+{
+  "name": "graphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adv-logger": "^1.2.86",
+    "dataloader": "^1.2.0",
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.1",
+    "graphql": "^0.8.2",
+    "mongoose": "^4.7.4",
+    "pg": "^6.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-default": "^0.2.1",
+    "nodemon": "^1.11.0"
+  }
+}
